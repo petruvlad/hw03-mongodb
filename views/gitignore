@@ -1,0 +1,4 @@
+*.env,
+node-modules
+DB_USER: vlad22petru;
+DB_PASSWORS: BnxRFnAqWdmF25ak;
